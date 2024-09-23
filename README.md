@@ -2,6 +2,8 @@
 Code Generation project during TechXchange Watson.ai Hackathon 2024
 
 
+WatsonX.ai Code Generation Youtube Video Demonstration Link https://youtu.be/hDUXCXsVW5E?si=CQI4moJ5EABvbguj
+
 Problem & Solution Statement
 
 Our method is intended to enhance the software development process, with a particular emphasis on the automation and optimization of processes related to API integration, documentation creation, and code review. In fields like software development, digital product management, and IT services, where developers, DevOps engineers, and technical writers spend a lot of time on repetitive chores that could be automated with generative AI, this approach will be very helpful.
